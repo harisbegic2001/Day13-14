@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+body{
+    margin: auto;
+    max-width: 500px;
+
+}
+img {
+    width: 100%;
+}
+.grid {
+    display: flex;
+
+
+}
+.grid-col{
+    flex: 1;
+    padding: 0 .1em;
+}
